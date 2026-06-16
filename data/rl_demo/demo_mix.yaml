@@ -1,0 +1,12 @@
+# Demo RL training data mix for testing.
+# 90 samples total: 50 geneval + 20 ocr + 20 general.
+datasets:
+  - name: geneval
+    json_path: data/rl_demo/geneval.jsonl
+    sampled_ratio: 1
+  - name: ocr
+    json_path: data/rl_demo/ocr.jsonl
+    sampled_ratio: 1
+  - name: general
+    json_path: data/rl_demo/general.jsonl
+    sampled_ratio: 1

@@ -1,0 +1,29 @@
+# Core
+torch>=2.4.0
+transformers>=4.57.0
+diffusers>=0.36.0
+accelerate>=1.4.0
+deepspeed>=0.16
+datasets>=3.0
+einops
+safetensors
+
+# Vision-language utilities
+qwen-vl-utils
+Pillow
+torchvision
+
+# Data
+numpy
+tqdm
+
+# Reward-server HTTP clients + async
+requests>=2.31
+aiohttp>=3.9
+
+# Tokenizer
+sentencepiece
+protobuf
+
+# Debugging (optional)
+debugpy>=1.8

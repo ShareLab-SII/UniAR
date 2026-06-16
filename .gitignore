@@ -1,0 +1,84 @@
+# Byte-compiled / optimized / DLL files
+./checkpoints/
+wandb/
+eval/runs/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+.cursor/
+.qoder/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights & large artifacts
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Training outputs
+wandb/
+runs/
+logs/
+trainer_output/
+output/
+outputs/
+
+# Temporary & debug
+tmp/
+temp/
+debug/
+scratch/
+
+# Data
+*.jsonl.bak
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+.oss_config.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Coverage & testing
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

@@ -24,7 +24,7 @@ Junyang Lin<sup>3</sup>,
 <sup>‡</sup>Project Lead &nbsp;
 <sup>†</sup>Corresponding Authors
 
-[![arXiv](https://img.shields.io/badge/arXiv-TODO-b31b1b.svg)](https://arxiv.org/abs/TODO)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.18249-b31b1b.svg)](https://arxiv.org/abs/2606.18249)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue.svg)](https://sharelab-sii.github.io/uniar-web)
 [![Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E.svg)](https://huggingface.co/collections/ShareLab-SII/uniar)
 </div>

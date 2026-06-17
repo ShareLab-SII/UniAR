@@ -4,7 +4,7 @@
 <h2>UniAR: Unified Multimodal Autoregressive Modeling with Shared Context</h2>
 <h3><i>--Visual Tokenizer is Key to Unification</i></h3>
 
-[Wujian Peng](https://wjpoom.github.io/)<sup>1,2,\*</sup>,
+[Wujian Peng](https://wjpoom.github.io/)<sup>1,2,\*,#</sup>,
 [Lingchen Meng](https://scholar.google.com/citations?user=pUl9H8gAAAAJ&hl=en)<sup>3,\*,‡</sup>,
 Yuxuan Cai<sup>3</sup>,
 Xianwei Zhuang<sup>3</sup>,
@@ -20,7 +20,8 @@ Junyang Lin<sup>3</sup>,
 <sup>2</sup>Shanghai Innovation Institute &nbsp;
 <sup>3</sup>Qwen Team, Alibaba Inc.
 
-<sup>*</sup>Equal Contribution &nbsp;
+<sup>*</sup>Equal Contributions &nbsp;
+<sup>#</sup>Work done during internship at Qwen Team, Alibaba Inc. &nbsp;
 <sup>‡</sup>Project Lead &nbsp;
 <sup>†</sup>Corresponding Authors
 

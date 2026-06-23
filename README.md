@@ -1,4 +1,10 @@
 <div align="center">
+  
+<p align="center">
+  <img src="https://sharelab-sii.github.io/uniar-web/figs/qwen-logo.png" height="50" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://sharelab-sii.github.io/uniar-web/figs/TEAI_logo.png" height="42" />
+</p>
 
 <!-- <h1>UniAR</h1> -->
 <h2>UniAR: Unified Multimodal Autoregressive Modeling with Shared Context</h2>
@@ -31,7 +37,7 @@ Junyang Lin<sup>3</sup>,
 </div>
 
 <p align="center">
-  <img src="assets/teaser.jpg" width="70%">
+  <img src="assets/teaser.jpg" width="80%">
 </p>
 
 ## Introduction
@@ -160,10 +166,10 @@ We also thank the benchmark authors for their evaluation tools:
 If you find UniAR useful in your research, please consider citing:
 
 ```bibtex
-@inproceedings{peng2026uniar,
-  title={Unified Multimodal Autoregressive Modeling with Shared Context --- Visual Tokenizer is Key to Unification},
+@article{peng2026unified,
+  title={Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification},
   author={Peng, Wujian and Meng, Lingchen and Cai, Yuxuan and Zhuang, Xianwei and Yang, Yuhuan and Fang, Rongyao and Wu, Chenfei and Lin, Junyang and Wu, Zuxuan and Bai, Shuai},
-  booktitle={ICML},
+  journal={arXiv preprint arXiv:2606.18249},
   year={2026}
 }
 ```
